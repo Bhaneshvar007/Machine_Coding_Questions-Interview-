@@ -1,8 +1,12 @@
-# React + Vite
+# 1. Employe management system
+In this system first creating a employe after that we can create a employe then explore it.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Command for cloning a project and run it in our local disk
+``
+git clone https://github.com/Bhaneshvar007/Machine_Coding_Questions-Interview-/tree/main/Employe_manegementDatabase
+npm install
+npm run dev
 
-Currently, two official plugins are available:
+``
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Screenshot-from-2025-01-21-09-31-45.png](https://i.postimg.cc/htSJyX7N/Screenshot-from-2025-01-21-09-31-45.png)](https://postimg.cc/CzQLdL74)    
